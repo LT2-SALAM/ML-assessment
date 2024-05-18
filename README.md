@@ -1,4 +1,35 @@
-# ML-assessment
+# ML Coursework Repository
+
+Repository structure:
+
+
+Data: Contains winequality_red.csv, winequality_white.csv and selected_features.csv data(this dataset should be use for the model development)
+
+
+Doc: Contains documentation including document with graphics used for report, summary of literature and final versions of report in .docx and .pdf format
+
+
+Images: Contains images generated for the report
+
+
+Scripts: contains scripts, including:
+
+
+Exploratory data analysis: Exploratory analysis for Wine quality prediction.ipynb
+
+
+Model Development: Model Development for wine quality prediction.ipynb
+
+
+Exploratory analysis Scripts to produce specific data: selected_features.csv
+
+
+Instructions to use code:
+
+Machine learning script can be re-run by executing all of the script files referenced above.
+
+Paths for data input are set up to mirror the structure in this repo. As a result, to run the files, it may be easiest to clone the repository and run the scripts within the existing folder structure.
+
 Project title: Wine Quality Prediction
 
 Datasets sources: UC Irvine Machine Learning Repository -  http://archive.ics.uci.edu/ml/index.php
